@@ -1,5 +1,5 @@
-# 💫 About Me:
-Arora - a ecommerce website<br>
+# Hi There! 💫 :
+I'm Pravinsingh Rathod, a passionate Developer specialized in web development, backend programming, and mobile app development. With a diverse skill set and experience in various programming languages and frameworks, I aim to create innovative solutions that impact and solve real-world problems. My consistent commits and active participation in both personal and collaborative projects demonstrate my enthusiasm and dedication to programming.
 
 
 ## 🌐 Socials:
