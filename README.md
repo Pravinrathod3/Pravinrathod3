@@ -15,4 +15,6 @@ I'm Pravinsingh Rathod, a passionate Developer specialized in web development, b
 ---
 [![](https://visitcount.itsvg.in/api?id=Pravinrathod3&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/pravin-53_62?ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
